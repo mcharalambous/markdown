@@ -1,0 +1,10 @@
+.textDialog {
+    max-width: 100%;
+    width : 600px;
+    max-height: 100%;
+    height : 600px;
+}
+
+.layerPositionUnset {
+    position: unset;
+}
